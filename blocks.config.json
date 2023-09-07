@@ -1,10 +1,10 @@
 [
   {
     "type": "file",
-    "id": "file-block",
-    "title": "Example File Block",
-    "description": "A basic file block",
-    "entry": "blocks/example-file-block/index.tsx",
+    "id": "fountain-block",
+    "title": "Fountain File Block",
+    "description": "A block to render fountain screenplays",
+    "entry": "blocks/fountain-file-block/index.tsx",
     "matches": ["*"],
     "example_path": "https://github.com/facebook/react/blob/main/packages/react-dom/index.js"
   },
